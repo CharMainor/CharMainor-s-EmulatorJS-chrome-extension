@@ -4,7 +4,7 @@
 <script type="text/javascript">
     EJS_player = '#game';
     EJS_biosUrl = '';
-    EJS_gameUrl = '/html/Pokemon FireRed CharMainor Route.gba'; // Url to Game rom
+    EJS_gameUrl = '/html/Pokemon - FireRed Version CharMainor Route.gba'; // Url to Game rom
     EJS_core = 'gb';
 </script>
 <script src="loader.js"></script>
