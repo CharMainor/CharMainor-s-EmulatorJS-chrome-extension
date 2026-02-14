@@ -1,6 +1,10 @@
-// REFER TO THE README ON WHAT CORE TO USE!! https://github.com/ethanaobrien/emulatorjs-chrome-extension/blob/main/README.md
-
-EJS_player = '#game';
-EJS_gameUrl = 'game.zip'; // Url to Game rom
-EJS_core = 'nes';
-EJS_pathtodata = 'data/'; //path to all of the wasm and js files.
+<div style="width:640px;height:480px;max-width:100%">
+        <div id="game"></div>
+      </div>
+<script type="text/javascript">
+    EJS_player = '#game';
+    EJS_biosUrl = '';
+    EJS_gameUrl = '/html/Pokemon FireRed CharMainor Route.gba'; // Url to Game rom
+    EJS_core = 'gb';
+</script>
+<script src="loader.js"></script>
